@@ -32,11 +32,7 @@ CREATE TABLE supply_chain_01(
     PRIMARY KEY (sku)  
 );  
 
-select  * from supply_chain_01
-
 #-------------- Analysis Details-----------------#
-
-#drop table supply_chain_01
 
 #1. Product Sales and Revenue Analysis
 #This query gives you the total number of products sold,
